@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Jean-Pierre Vacher @jpvacher
 - 👀 I’m interested in herpetology, phylogeny, conservation genetics, biogeography, ecological modelling, monitoring of biodiversity.
-- 🌱 I’m currently learning spatial modelling, programming in R. 
+- 🌱 I’m currently learning spatial modelling, programming in R.
+- I'm currently a postdoc/engineer at CEFE in Montpellier (France).
 - 📫 How to reach me, check my profile on researchgate: https://www.researchgate.net/profile/Jean-Pierre-Vacher
 
 <!---
