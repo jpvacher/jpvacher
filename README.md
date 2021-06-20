@@ -5,10 +5,14 @@
 - 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />](https://www.researchgate.net/profile/Jean-Pierre-Vacher)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jp_vacher)
+[Researgate][researchgate]
 
 
+[Twitter][twitter]
+
+
+[researchgate]: https://www.researchgate.net/profile/Jean-Pierre-Vacher
+[twitter]: https://twitter.com/jp_vacher
 
 
 <!---
