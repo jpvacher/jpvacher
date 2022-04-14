@@ -5,7 +5,7 @@
 
 ### Connect with me:
 
-[Researgate][researchgate]
+[Researchgate][researchgate]
 
 
 [Twitter][twitter]
