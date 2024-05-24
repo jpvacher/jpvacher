@@ -1,18 +1,18 @@
 ### Hi, I’m Jean-Pierre Vacher @jpvacher
 - 👀 I’m interested in herpetology, phylogeny, biogeography, conservation genetics, ecological modelling, and monitoring of biodiversity.
 - 🌱 I’m currently learning spatial modelling, and advanced coding and programming in R.
-- Right now I'm a research engineer at [CEBC](https://www.cebc.cnrs.fr/) in Chizé (France).
+- Right now I'm a study leader at [Conservatoire d'espaces naturels de Lorraine](https://www.cen-lorraine.fr/#/) in Nancy (France).
 
 ### Connect with me:
 
 [Researchgate][researchgate]
 
 
-[Twitter][twitter]
+[X][X]
 
 
 [researchgate]: https://www.researchgate.net/profile/Jean-Pierre-Vacher
-[twitter]: https://twitter.com/jp_vacher
+[X]: https://twitter.com/jp_vacher
 
 
 <!---
