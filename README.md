@@ -12,7 +12,7 @@
 
 
 [researchgate]: https://www.researchgate.net/profile/Jean-Pierre-Vacher
-[linkedin]: https://www.linkedin.com/in/jean-pierre-vacher-75315225b/
+[LinkedIn]: https://www.linkedin.com/in/jean-pierre-vacher-75315225b/
 
 
 <!---
