@@ -8,11 +8,9 @@
 [Researchgate][researchgate]
 
 
-[X][X]
-
 
 [researchgate]: https://www.researchgate.net/profile/Jean-Pierre-Vacher
-[LinkedIn]: https://www.linkedin.com/in/jean-pierre-vacher-75315225b/
+[Linkedn]: https://www.linkedin.com/in/jean-pierre-vacher-75315225b/
 
 
 <!---
