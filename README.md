@@ -6,11 +6,12 @@
 ### Connect with me:
 
 [Researchgate][researchgate]
+[LinkedIn] [Linkedin
 
 
 
 [researchgate]: https://www.researchgate.net/profile/Jean-Pierre-Vacher
-[Linkedn]: https://www.linkedin.com/in/jean-pierre-vacher-75315225b/
+[Linkedin]: https://www.linkedin.com/in/jean-pierre-vacher-75315225b/
 
 
 <!---
