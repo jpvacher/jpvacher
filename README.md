@@ -6,7 +6,7 @@
 ### Connect with me:
 
 [Researchgate][researchgate]
-[LinkedIn] [Linkedin
+[LinkedIn] [Linkedin]
 
 
 
