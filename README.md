@@ -3,17 +3,13 @@
 - 🌱 I’m currently learning spatial modelling, and advanced coding and programming in R.
 - Right now I'm a study leader at [Conservatoire d'espaces naturels de Lorraine](https://www.cen-lorraine.fr/#/) in Nancy (France).
 
+
 ## 🌐 Socials:
-
-[Researchgate][researchgate]
-[LinkedIn][Linkedin]
-
+![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white) (https://www.researchgate.net/profile/Jean-Pierre-Vacher)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/jean-pierre-vacher-75315225b/)
 
 
-[researchgate]: https://www.researchgate.net/profile/Jean-Pierre-Vacher
-[Linkedin]: https://www.linkedin.com/in/jean-pierre-vacher-75315225b/
-
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
 
 
