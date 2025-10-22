@@ -13,8 +13,6 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## Google scholar
-![google-scholar](https://scholar.google.fr/citations?user=608x1OoAAAAJ&hl=en)
 
 <!---
 jpvacher/jpvacher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
