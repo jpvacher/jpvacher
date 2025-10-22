@@ -1,7 +1,7 @@
 ## 🐸 Hi, I’m Jean-Pierre Vacher @jpvacher
 - 👀 I’m interested in herpetology (mainly frogs), phylogeny, biogeography, conservation genetics, ecological modelling, and monitoring of biodiversity.
 - 🌱 I’m currently learning spatial modelling, and advanced coding and programming in R.
-- Right now I'm a study leader at [Conservatoire d'espaces naturels de Lorraine](https://www.cen-lorraine.fr/#/) in Nancy (France).
+- Right now I'm a collaborator at [Patrinat Muséum national d'Histoire naturelle]([https://www.cen-lorraine.fr/#/](https://www.patrinat.fr/fr)) (France).
 
 
 ## 🌐 Socials:
@@ -12,6 +12,9 @@
 ## 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+## Google scholar
+![google scholar](https://scholar.google.fr/citations?user=608x1OoAAAAJ&hl=en)
 
 <!---
 jpvacher/jpvacher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
