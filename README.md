@@ -1,7 +1,7 @@
 ## 🐸 Hi, I’m Jean-Pierre Vacher @jpvacher
 - 👀 I’m interested in herpetology (mainly frogs), phylogeny, biogeography, conservation genetics, ecological modelling, and monitoring of biodiversity.
 - 🌱 I’m currently learning spatial modelling, and advanced coding and programming in R.
-- Right now I'm a collaborator at [Patrinat/Muséum national d'Histoire naturelle]([https://www.cen-lorraine.fr/#/](https://www.patrinat.fr/fr)) (France).
+- Right now I'm a freelance researcher.
 
 
 ## 🌐 Socials:
