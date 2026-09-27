@@ -1,7 +1,7 @@
 ## 🐸 Hi, I’m Jean-Pierre Vacher @jpvacher
 - 👀 I’m interested in herpetology (mainly frogs), phylogeny, biogeography, conservation genetics, ecological modelling, and monitoring of biodiversity.
 - 🌱 I’m currently learning spatial modelling, and advanced coding and programming in R.
-- I'm an associate senior lecturer at [the university of Strasbourg](https://live.unistra.fr/){:target="_blank"} (France).
+- I'm an associate senior lecturer at [the university of Strasbourg](https://live.unistra.fr/) (France).
 
 
 ## 🌐 Socials:
